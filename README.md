@@ -1,43 +1,52 @@
-I governi italiani contro la crescita economica.
+# Cosa ferma la crescita italiana?
 
 Premetto che non sono un economista, per campare scrivo software nell'ambito della cosiddetta cybersecurity.
 Ultimamente ho sviluppato un'ossessione per la crescita economica.
 Ho letto alcuni libri degli economisti più famosi, e poi sono passato ai report annuali del FMI dedicati all'Italia 
-(sono consultazioni degli esperti del FMI con il governo Italiano).
-lo scopo di questo articolo è mettere in fila i concetti appresi, offrire una spiegazione semplice ed intuitiva al problema.
-Senza complottismi, in maniera semplice e chiara a tutti.
+( https://www.britannica.com/topic/Article-IV-Consultation ).
+Volevo capire cosa dobbiamo fare esattamente per uscire dalla situazione in cui ci troviamo: bassa crescita, salari fermi.
+Quali riforme vanno adottate, e quali leggi in atto vanno eliminate al fine di crescere al pari resto dei paesi sviluppati?
+Lo scopo di questo articolo è mettere in fila i concetti appresi, offrire una spiegazione semplice ed intuitiva
+al problema, basandosi su quanto appreso leggendo le raccomandazioni del fondo monetario internazionale.
 
-Una società senza crescita economica è una società dove tutto rimane uguale, inclusi i salari.
-Se vogliamo che i salari crescano, dobbiamo chiederci come far crescere l'economia in modo stabile, solido, duraturo.
-Spieghiamo prima in breve come funziona la crescita economica oggi, e poi passiamo alle raccomandazioni specifiche per l'Italia.
+Una societa' senza crescita economica e' una societa' condannata a rimanere uguale a se stessa, da cui le persone inevitabilmente scappano.
+D'altro canto, non esiste un solo indicatore di benessere che non sia correlato con il livello di sviluppo economico raggiunto.
+Chi si lamenta del basso livello dei salari nel nostro paese, dunque, ha il dovere comprendere quali politiche 
+sono veramente in grado di migliorare la situazione, al di la' dei complottismi e delle posizioni ideologiche. 
+
+Per migliorare in maniera stabile il benessere della popolazione non vi e' altra via se non quella della crescita.
 
 # come funziona la crescita economica
-Se i presupposti per un'economia moderna sono la stabilità e l'esistenza del 'diritto alla proprietà' 
-(nessuno investirà senza poter godere dei suoi guadagni), la crescita economica è per i paesi che godono di 
-queste condizioni (come il nostro) una questione di "distruzione creatrice". 
-La crescita economica esiste perchè nuove innovazioni entrano nel mercato, in concorrenza con le tecnologie esistenti. 
-Se più apprezzato, il nuovo sostituirà il vecchio.
+Per i paesi sviluppati, dove esistono stabilita' e solidi diritti alla proprieta' (come il nostro paese),
+la crescita economica e' una questione di "distruzione creatrice": 
+Nuove innovazioni entrano nel mercato, in concorrenza con le tecnologie esistenti.
+Un ciclo di cambiamenti in cui il nuovo distrugge il vecchio. Almeno in teoria.
 
-Sembra tutto facile, ma c'è un problema. 
-Coloro che beneficiano dello status quo faranno di tutto per ostacolare le nuove innovazioni, e non venire spazzati via.
+Coloro che beneficiano del vecchio status quo faranno di tutto per ostacolare le nuove innovazioni, e non venire spazzati via.
+Hanno molto da perdere dall'ingresso nel mercato di nuovi concorrenti.
+
 I gruppi di potere sono organizzati, hanno denaro, e hanno legami con la politica.
-Hanno molto da perdere dall'ingresso nel mercato di nuovi concorrenti, e sono pronti a tutto per convincere i 
-legislatori sulla necessita' di introdurre stringenti regolazioni che frenino le loro attività. 
-Non lo diranno esplicitamente, ma tenteranno di convincerli della necessità di questi interventi per l'interesse comune.
-Questo tipo di norme vengono definite dagli economisti barriere all'ingresso.
+Faranno di tutto per convincere i legislatori della necessita' di introdurre stringenti regolazioni che frenino le nuove attività. 
+Non lo diranno esplicitamente, ma tenteranno di convincerli che cio' sia necessario per l'interesse comune,
+spesso facendo leva su sentimenti di nazionalismo.
+Questo tipo di norme vengono definite dagli economisti barriere all'ingresso, hanno l'effetto di frenare crescita e con essa la
+creazione di posti di lavoro in settori innovativi, che spesso offrono salari piu' alti rispetto ai settori tradizionali.
 
-I casi piu' noti al pubblico sono forse il divieto di coltivazione di OGM, le regolamentazioni del settore dei taxi, la lotta dei balneari per evitare la concorrenza.
-Le regolamentazioni opposte alle nuove tecnologie frenano la crescita economica e frenano la creazione di posti di lavoro in settori innovativi, che spesso offrono salari piu' alti.
+Primo punto: Le barriere all'ingresso impediscono la nascita di imprese innovative capaci di offrire alti salari.
 
-Allo stesso modo, le corporazioni professionali tentano di introdurre barriere all'ingresso per i nuovi aspiranti membri della professione.
-Questo consente loro di avere meno concorrenza, ma determina la loro capacita' di imporre prezzi piu' alti al resto della popolazione, di fatto determinando
+Le corporazioni professionali hanno la stessa preoccupazione riguardo l'ingresso di nuovi aspiranti membri della professione.
+Se riescono a far approvare regolamentazioni che limitino l'ingresso di nuovi professionisti, potranno avere meno concorrenza,
+e imporre prezzi piu' alti al resto della popolazione, di fatto determinando
 una diminuzione del potere di acquisto dei salari del resto della popolazione.
+Queste norme prendono di solito la forma di sistemi di licenze a numero chiuso. Sono spesso giustificate al pubblico
+con la necessita' di "tutelare il consumatore" garantendo un elevato standard di prestazioni.
+L'unica cosa che tutelano in realta', e' il profitto di determinate categorie, a spese del resto della popolazione.
 
-Queste barriere all'ingresso prendono di solito la forma di sistemi di licenze a numero chiuso, stringenti richieste di esami di dubbia utilita' pratica,
-in settori non fondamentali nei quali stabilire il successo o meno di un operatore potrebbe essere del tutto affidato al mercato.
-// notai, farmacie, ecc...
+Secondo punto: le barriere in ingresso causano la diminuzione del potere di acquisto dei salari.
 
 // interesse dei politici a mantenere questo status quo
+// la presenza di barriere all ingresso e l evelato debito pubblico sono due facce della stessa medaglia 
+// >> la tendenza della politica di comprarsi il voto a copli di norme favorevoli e spesa pubblica. 
 
 // regolamentazioni all esercizio delle professioni (contratto nazionale)
 
