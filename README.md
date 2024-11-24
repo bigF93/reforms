@@ -40,3 +40,5 @@ in settori non fondamentali nei quali stabilire il successo o meno di un operato
 // interesse dei politici a mantenere questo status quo
 
 // regolamentazioni all esercizio delle professioni (contratto nazionale)
+
+// nota: distinzione tra regolamentazioni fatte per avvantaggiare qualcuno e quelle fatte per gestire risorse comuni, es ambiente
