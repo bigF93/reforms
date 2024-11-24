@@ -41,4 +41,10 @@ in settori non fondamentali nei quali stabilire il successo o meno di un operato
 
 // regolamentazioni all esercizio delle professioni (contratto nazionale)
 
+// nota: introduzione dazi e opposizione a trattati di libero scambio ha lo stesso effetto di ridurre il potere di acquisto
+// opposizione a energia nucleare può essere vista allo stesso modo
+
 // nota: distinzione tra regolamentazioni fatte per avvantaggiare qualcuno e quelle fatte per gestire risorse comuni, es ambiente
+// il punto è di lottare contro le leggi che favoriscono solo una minoranza, a sfavore del resto della popolazione
+
+// maggiore efficienza della macchina amministrativa è certamente importante
