@@ -20,19 +20,19 @@ Per migliorare in maniera stabile il benessere della popolazione non vi e' altra
 Per i paesi sviluppati, dove esistono stabilita' e solidi diritti alla proprieta' (come il nostro paese),
 la crescita economica e' una questione di "distruzione creatrice": 
 Nuove innovazioni entrano nel mercato, in concorrenza con le tecnologie esistenti.
-Un ciclo di cambiamenti in cui il nuovo distrugge il vecchio. Almeno in teoria.
+Un ciclo di cambiamenti in cui il nuovo distrugge il vecchio. 
 
-Coloro che beneficiano del vecchio status quo faranno di tutto per ostacolare le nuove innovazioni, e non venire spazzati via.
-Hanno molto da perdere dall'ingresso nel mercato di nuovi concorrenti.
+Almeno in teoria.
 
-I gruppi di potere sono organizzati, hanno denaro, e hanno legami con la politica.
+Coloro che beneficiano del vecchio status quo infatti faranno di tutto per ostacolare le nuove innovazioni e non venire spazzati via.
+Hanno molto da perdere dall'ingresso nel mercato di nuovi concorrenti, sono organizzati, hanno denaro, e hanno legami con la politica.
 Faranno di tutto per convincere i legislatori della necessita' di introdurre stringenti regolazioni che frenino le nuove attività. 
 Non lo diranno esplicitamente, ma tenteranno di convincerli che cio' sia necessario per l'interesse comune,
 spesso facendo leva su sentimenti di nazionalismo.
 Questo tipo di norme vengono definite dagli economisti barriere all'ingresso, hanno l'effetto di frenare crescita e con essa la
 creazione di posti di lavoro in settori innovativi, che spesso offrono salari piu' alti rispetto ai settori tradizionali.
 
-Primo punto: Le barriere all'ingresso impediscono la nascita di imprese innovative capaci di offrire alti salari.
+Primo punto: Le barriere in ingresso impediscono la nascita di imprese innovative capaci di offrire alti salari.
 
 Le corporazioni professionali hanno la stessa preoccupazione riguardo l'ingresso di nuovi aspiranti membri della professione.
 Se riescono a far approvare regolamentazioni che limitino l'ingresso di nuovi professionisti, potranno avere meno concorrenza,
