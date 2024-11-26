@@ -42,13 +42,22 @@ Queste norme prendono di solito la forma di sistemi di licenze a numero chiuso. 
 con la necessita' di "tutelare il consumatore" garantendo un elevato standard di prestazioni.
 L'unica cosa che tutelano in realta', e' il profitto di determinate categorie, a spese del resto della popolazione.
 
-Secondo punto: le barriere in ingresso causano la diminuzione del potere di acquisto dei salari.
+Secondo punto: le barriere in ingresso causano una effettiva diminuzione del valore dei salari.
+
+Anche le rigide normative italiane in materia di contrattazione collettiva possono essere viste in termini di barriere all'ingresso.
+Nelle zone meno sviluppate del paese, le aziende più piccole spesso non possono permettersi
+i contratti stabiliti dalla norma nazionale. In mancanza di alternative, questo si riflette in una elevata 
+incidenza di disoccupazione e lavoro nero, e nell'effettiva impossibilità di crescere ed entrare nel mercato. 
+Non a caso, il sud Italia ha smesso di convergere con il nord in concomitanza con l'abolizione delle c.d. gabbie salariali.
+D'altronde l'esperienza ci mostra che lo sviluppo economico può diffondersi in qualsiasi
+zona del mondo, qualora le leggi lo consentono. I problemi cronici che affliggono il sud italia
+non sono una causa della mancata crescita economica, ma una banale conseguenza di norme troppo rigide.
+
+Terzo punto: le normative di contrattazione collettiva sono il principale freno allo sviluppo del mezzogiorno.
 
 // interesse dei politici a mantenere questo status quo
-// la presenza di barriere all ingresso e l evelato debito pubblico sono due facce della stessa medaglia 
+// la presenza di barriere all'ingresso e l'evelato debito pubblico sono due facce della stessa medaglia 
 // >> la tendenza della politica di comprarsi il voto a copli di norme favorevoli e spesa pubblica. 
-
-// regolamentazioni all esercizio delle professioni (contratto nazionale)
 
 // nota: introduzione dazi e opposizione a trattati di libero scambio ha lo stesso effetto di ridurre il potere di acquisto
 // opposizione a energia nucleare può essere vista allo stesso modo
@@ -57,3 +66,15 @@ Secondo punto: le barriere in ingresso causano la diminuzione del potere di acqu
 // il punto è di lottare contro le leggi che favoriscono solo una minoranza, a sfavore del resto della popolazione
 
 // maggiore efficienza della macchina amministrativa è certamente importante
+
+// la cosa bella sarebbe mantenere una full list
+- divieto di noleggiare la propria autovettura
+- obbligo di certificato medico
+- divieto di produzione di vini non alcolici (presto abolito)
+- farmacie
+- notai
+- taxi
+- balneari
+- Pannelli solari
+- divieto di coltivazione OGM
+- Energia nucleare
