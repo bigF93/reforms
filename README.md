@@ -48,7 +48,7 @@ Nelle zone meno sviluppate del paese, le aziende locali spesso non possono perme
 Questo si riflette nell'elevato tasso di disoccupazione e lavoro nero che osserviamo.
 TUtto questo puo' sembrare paradossale. Le stesse Leggi che impongono alle aziende del sud di offrire salari piu' alti finiscono per impedire la crescita economica,
 fermando la nascita di imprese autoctone in grado di offrire stipendi migliori.
-D'altronde l'esperienza ci mostra che lo sviluppo economico può diffondersi in qualsiasi zona del mondo, qualora le leggi lo consentono.
+D'altronde l'esperienza ci mostra che lo sviluppo economico può diffondersi in qualsiasi zona del mondo, qualora le leggi lo consentano.
 
 Terzo punto: le normative italiane di contrattazione collettiva sono barriere in ingresso per l'economia del sud.
 
