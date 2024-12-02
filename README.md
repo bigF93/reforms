@@ -73,6 +73,9 @@ Ottenere la crescita economica è difficile nella pratica fintanto che chi è al
 La chiusura delle professioni, la contrattazione collettiva (il FMI suggerisce di sostituirla con dei livelli minimi salariali stabiliti su base regionale),
 gli incentivi fiscali a beneficio dei 'piccoli' (inclusa l'evasione) sono i freni principali alla crescita italiana.
 
+Altri suggerimenti:
+- tempi della giustizia
+
 
 // nota: distinzione tra regolamentazioni fatte per avvantaggiare qualcuno e quelle fatte per gestire risorse comuni, es ambiente
 // il punto è di lottare contro le leggi che favoriscono solo una minoranza, a sfavore del resto della popolazione
@@ -90,3 +93,5 @@ gli incentivi fiscali a beneficio dei 'piccoli' (inclusa l'evasione) sono i fren
 - Pannelli solari
 - divieto di coltivazione OGM
 - Energia nucleare
+- equo compenso = ? (doc ocse https://img.innovationpost.it/wp-content/uploads/2024/01/21183413/ItalyEcoSurveyIT.pdf )
+- 
