@@ -76,14 +76,14 @@ gli incentivi fiscali a beneficio dei 'piccoli' (inclusa l'evasione) sono i fren
 Altri suggerimenti:
 - tempi della giustizia
 
-
 // nota: distinzione tra regolamentazioni fatte per avvantaggiare qualcuno e quelle fatte per gestire risorse comuni, es ambiente
 // il punto è di lottare contro le leggi che favoriscono solo una minoranza, a sfavore del resto della popolazione
 
 // maggiore efficienza della macchina amministrativa è certamente importante
 
-// la cosa bella sarebbe mantenere una full list
+# Elenco delle leggi contro l'innovazione
 - divieto di noleggiare la propria autovettura
+- legge 'equo compenso' del 2023 rappresenta un tentativo di introdurre tariffe minime per i professionisti come gli avvocati. Per valutare leggi simili occorre ricordare che l'effetto principale dell'innovazione è quello di produrre un bene a minor prezzo, pèensiamo ad esempio a come l'utilizzo dell'intelligenza artificiale può ridurre i tempi di scrittura di documenti legali.
 - obbligo di certificato medico
 - divieto di produzione di vini non alcolici (presto abolito)
 - farmacie
@@ -93,5 +93,5 @@ Altri suggerimenti:
 - Pannelli solari
 - divieto di coltivazione OGM
 - Energia nucleare
-- equo compenso = ? (doc ocse https://img.innovationpost.it/wp-content/uploads/2024/01/21183413/ItalyEcoSurveyIT.pdf )
+  
 - 
