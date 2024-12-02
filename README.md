@@ -5,31 +5,32 @@ Ultimamente ho sviluppato un'ossessione per la crescita economica.
 Ho letto alcuni libri degli economisti più famosi, e poi sono passato ai report annuali del FMI dedicati all'Italia 
 ( https://www.britannica.com/topic/Article-IV-Consultation ).
 Volevo capire cosa dobbiamo fare esattamente per uscire dalla situazione in cui ci troviamo: bassa crescita, salari fermi, emigrazione.
-Cosa possiamo imparare dalla scienza economica affermata? Quali riforme vanno adottate al fine di crescere al pari resto dei paesi sviluppati?
+Cosa possiamo imparare dalla scienza economica affermata? Cosa stiamo facendo di sbagliato?
 Lo scopo di questo articolo è mettere in fila i concetti appresi, offrire una spiegazione semplice ed intuitiva
 al problema, basandosi su quanto appreso leggendo le raccomandazioni del fondo monetario internazionale.
 
 Una societa' senza crescita economica e' una societa' condannata a rimanere uguale a se stessa, da cui le persone inevitabilmente scappano.
 D'altro canto, non esiste un solo indicatore di benessere che non sia correlato con il livello di sviluppo economico raggiunto.
-Per migliorare in maniera stabile il benessere della popolazione, non vi e' altra via se non quella della crescita.
+Per migliorare in maniera stabile il benessere della società non vi e' altra via se non quella della crescita.
 
 # La crescita economica e' una quesitone di concorrenza
 Per i paesi sviluppati, dove esistono una certa stabilita' e il diritto alla proprieta' privata, incentivi
 primordiali all'investimento, la crescita economica e' una questione di distruzione creativa.
 Nuove innovazioni entrano nel mercato, in concorrenza con le tecnologie esistenti.
-Un ciclo di cambiamenti si scatena in cui il nuovo distrugge il vecchio: l'innovazione infatti
-consente di produrre a costi inferiori.
-La concorrenza obbliga gli operatori economici a investire in Ricerca e Sviluppo, e impedisce loro di fissare i prezzi a loro piacimento.
-L'idea della concorrenza mette d'accordo economisti di ogni tipo ed e' il vero motore del cambiamento nella societa'.
+Un ciclo di cambiamenti si scatena in cui il nuovo distrugge il vecchio: l'innovazione, infatti, consente di produrre gli stessi beni a costi inferiori.
+La concorrenza impedisce agli operatori economici di fissare i prezzi a loro piacimento, e li obbliga ad investire in ricerca e sviluppo.
+Se l'innovazione è il motore del cambiamento, la concorrenza ne è il combustibile.
+L'idea della concorrenza mette d'accordo economisti di destra e di sinistra.
+La concorrenza porta la crescita che a sua volta porta sviluppo, modernità, risorse per educazione, sanità, e persino per la potenza militare. Chi potrebbe mai opporsi ad essa?
 
-Qualcuno pero' potrebbe mettersi di traverso.
-
-Coloro che beneficiano dello status quo faranno di tutto per ostacolare le nuove innovazioni e non venire spazzati via.
-Hanno molto da perdere dall'ingresso nel mercato di nuovi concorrenti, sono organizzati, hanno denaro, e hanno legami con la politica.
-Faranno di tutto per convincere i legislatori della necessita' di introdurre stringenti regolazioni che li proteggano,
-spesso facendo leva su sentimenti di nazionalismo.
-Questo tipo di norme vengono definite barriere all'ingresso, e hanno l'effetto di frenare crescita economica nel suo complesso, e con essa la
-creazione di posti di lavoro in settori innovativi, che spesso offrono salari piu' alti rispetto ai settori tradizionali.
+La concorrenza ha, in realtà, molti nemici. 
+Coloro che beneficiano dello status quo hanno tutto l'interesse ad ostacolare l'apertura alla concorrenza, per non venire spazzati via.
+Sono organizzati, hanno denaro, hanno legami con la politica. Faranno di tutto per convincere i legislatori della necessita' di introdurre stringenti regolazioni che li proteggano,
+spesso facendo leva su sentimenti di nazionalismo o sulle paure della popolazione.
+Questo tipo di norme vengono definite barriere all'ingresso. 
+Se approvate, l'effetto di frenare crescita economica nel suo complesso, e con essa la creazione di posti di lavoro in settori innovativi, che spesso offrono salari piu' alti rispetto ai settori tradizionali.
+// aneddoto sull'imperatore, Roma.
+// aneddoto sul motore a vapore in Germania
 
 Primo punto: Le barriere in ingresso impediscono la nascita di imprese innovative capaci di offrire alti salari.
 
@@ -57,6 +58,21 @@ Senza soffermarsi troppo sull'ovvio, faccio notare che il debito pubblico elevat
 barriere in ingresso in ogni settore della nostra economia sono due facce della stessa medaglia:
 la disponibilita' del potere politico a elargire favori a determinate categorie, a spese dell'interesse di
 lungo termine della collettivita': la crescita economica.
+
+Anche il sistema fiscale italiano costituisce, come le norme sulla contrattazione collettiva, una barriera all'ingresso.
+E' noto che la struttura economica italiana sia caratterizzata dalla preponderanza di piccole imprese.
+Questo è strettamente legato al funzionamento del sistema fiscale italiano (oltre che alle norme sulla contrattazione collettiva),
+e in particolare a come il sistema fiscale disincentivi la crescita delle aziende, rendendo di fatto conveniente restare piccoli.
+Il fondo monetario internazionale ed altre istituzioni ci suggeriscono di riformare il fisco, facendo pagare di più a chi oggi
+paga poco e niente (anche grazie all'elevato tasso di evasione), rimuovendo gli incentivi a restare piccoli.
+
+Quarto punto: il sistema fiscale italiano è una barriera all'ingresso.
+
+Questi sono, in sintesi, questi sono i suggerimenti principali che ci vengono ripetuti, e queste sono le loro motivazioni.
+Ottenere la crescita economica è difficile nella pratica fintanto che chi è al potere sarà pronto a sacrificare l'interesse collettivo per il proprio tornaconto.
+La chiusura delle professioni, la contrattazione collettiva (il FMI suggerisce di sostituirla con dei livelli minimi salariali stabiliti su base regionale),
+gli incentivi fiscali a beneficio dei 'piccoli' (inclusa l'evasione) sono i freni principali alla crescita italiana.
+
 
 // nota: distinzione tra regolamentazioni fatte per avvantaggiare qualcuno e quelle fatte per gestire risorse comuni, es ambiente
 // il punto è di lottare contro le leggi che favoriscono solo una minoranza, a sfavore del resto della popolazione
