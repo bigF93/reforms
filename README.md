@@ -23,14 +23,12 @@ Se l'innovazione è il motore del cambiamento, la concorrenza ne è il combustib
 L'idea della concorrenza mette d'accordo economisti di destra e di sinistra.
 La concorrenza porta la crescita che a sua volta porta sviluppo, modernità, risorse per educazione, sanità, e persino per la potenza militare. Chi potrebbe mai opporsi ad essa?
 
-La concorrenza ha, in realtà, molti nemici. 
+La concorrenza ha molti nemici. 
 Coloro che beneficiano dello status quo hanno tutto l'interesse ad ostacolare l'apertura alla concorrenza, per non venire spazzati via.
 Sono organizzati, hanno denaro, hanno legami con la politica. Faranno di tutto per convincere i legislatori della necessita' di introdurre stringenti regolazioni che li proteggano,
 spesso facendo leva su sentimenti di nazionalismo o sulle paure della popolazione.
 Questo tipo di norme vengono definite barriere all'ingresso. 
 Se approvate, l'effetto di frenare crescita economica nel suo complesso, e con essa la creazione di posti di lavoro in settori innovativi, che spesso offrono salari piu' alti rispetto ai settori tradizionali.
-// aneddoto sull'imperatore, Roma.
-// aneddoto sul motore a vapore in Germania
 
 Primo punto: Le barriere in ingresso impediscono la nascita di imprese innovative capaci di offrire alti salari.
 
@@ -41,6 +39,8 @@ Queste norme prendono di solito la forma di sistemi di licenze a numero chiuso. 
 con la necessita' di "tutelare il consumatore" garantendo un elevato standard di prestazioni.
 L'unica cosa che tutelano in realta' e' il profitto di determinate categorie, a spese del resto della popolazione.
 Questo tipo di leggi sono molto piu' diffuse di quanto si pensi.
+Ad esempio, nel 2023 è stata applicata in Italia una legge detta "equo compenso" la quale, in determinate condizioni, fissa i prezzi minimi per i determinati professionisti come gli avvocati o gli ingegneri edili, per evitare "gare al ribasso".
+L'equo compenso costituisce una barriera all'ingresso nei confronti di eventuali società innovative le quali, ad esempio utilizzando nuove tecnologie come l'intelligenza artificiale, potrebbero essere in grado di tagliare i costi. Queste società perderanno il loro vantaggio competitivo, a vantaggio delle categorie tradizionali. Notiamo che l'effetto di lungo termine di questa misura è esattamente il contrario di quello per cui è stata concepita, perchè frenando lo sviluppo contribuisce all'impoverimento della società nel suo complesso, oltre all'ovvio risultato di aumentare i costi per le imprese che utilizzano i servizi professionali.
 
 Secondo punto: le barriere in ingresso nel settore dei servizi causano una effettiva diminuzione dei salari.
 
