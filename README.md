@@ -15,7 +15,7 @@ Per migliorare in maniera stabile il benessere della società non vi e' altra vi
 Per i paesi sviluppati, dove esistono una certa stabilita' e il diritto alla proprieta' privata, incentivi
 primordiali all'investimento, la crescita economica e' una questione di distruzione creativa.
 Nuove innovazioni entrano nel mercato, in concorrenza con le tecnologie esistenti.
-Un ciclo di cambiamenti si scatena in cui il nuovo distrugge il vecchio: l'innovazione, infatti, consente di produrre gli stessi beni a costi inferiori.
+Un ciclo di cambiamenti si scatena in cui il nuovo distrugge il vecchio: l'innovazione, è questo il concetto fondamentale, consente di produrre gli stessi beni a costi inferiori.
 La concorrenza impedisce agli operatori economici di fissare i prezzi a loro piacimento, e li obbliga ad investire in ricerca e sviluppo, e pagare meglio i dipendenti, per impedire che vadano altrove. (aneddoto sui servi della gleba).
 Se l'innovazione è il motore del cambiamento, la concorrenza ne è il combustibile.
 L'idea della concorrenza mette d'accordo economisti di destra e di sinistra.
