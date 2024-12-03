@@ -1,4 +1,4 @@
-# Cosa ferma la crescita italiana?
+# Le leggi italiane contro la crescita economica
 
 Premetto che non sono un economista, per campare scrivo software nell'ambito della cosiddetta cybersecurity.
 Ultimamente ho sviluppato un'ossessione per la crescita economica.
