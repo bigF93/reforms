@@ -2,12 +2,10 @@
 
 Premetto che non sono un economista, per campare scrivo software nell'ambito della cosiddetta cybersecurity.
 Ultimamente ho sviluppato un'ossessione per la crescita economica.
-Ho letto alcuni libri degli economisti più famosi, e poi sono passato ai report annuali del FMI dedicati all'Italia 
-( https://www.britannica.com/topic/Article-IV-Consultation ).
-Volevo capire cosa dobbiamo fare esattamente per uscire dalla situazione in cui ci troviamo: bassa crescita, salari fermi, emigrazione.
-Cosa possiamo imparare dalla scienza economica affermata? Cosa stiamo facendo di sbagliato?
+Ho letto alcuni libri degli economisti più famosi, e poi sono passato ai report dedicati all'Italia di organizzazioni come OCSE e FMI.
+Spesso si parla di riforme, ma io volevo capire esattamente **cosa** dobbiamo fare per uscire dalla nostra situazione fatta di bassa crescita, salari fermi, emigrazione.
 Lo scopo di questo articolo è mettere in fila i concetti appresi, offrire una spiegazione semplice ed intuitiva
-al problema, basandosi su quanto appreso leggendo le raccomandazioni del fondo monetario internazionale.
+al problema, basandosi sugli articoli di OCSE e fondo monetario internazionale.
 
 Una societa' senza crescita economica e' una societa' condannata a rimanere uguale a se stessa, da cui le persone inevitabilmente scappano.
 D'altro canto, non esiste un solo indicatore di benessere che non sia correlato con il livello di sviluppo economico raggiunto.
